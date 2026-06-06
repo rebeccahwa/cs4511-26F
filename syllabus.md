@@ -13,7 +13,7 @@ permalink: /syllabus/
   * **Class meets: [Day/Time/Location (e.g., Tuesday, Thursday 11:10am - 12:25pm in SEH 1300)]**
 
 **Office Hours:**
-Check [Course Homepage](https://rebeccahwa.github.io/cs4511_26F) for updated hours.
+Check [Course Homepage](https://rebeccahwa.github.io/cs4511-26F) for updated hours.
 
 **Online Platforms**
 * Blackboard for synchronous lectures and recordings

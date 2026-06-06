@@ -19,7 +19,7 @@ author: Rebecca Hwa
 description: > # this means to ignore newlines until "baseurl:"
   CS 4511 Fall 2026
 
-baseurl: "/cs4511_26F" # the subpath of your site, e.g. /blog
+baseurl: "/cs4511-26F" # the subpath of your site, e.g. /blog
 url: "https://rebeccahwa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  rebeccahwa
