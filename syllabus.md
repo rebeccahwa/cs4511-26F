@@ -7,46 +7,43 @@ permalink: /syllabus/
 
 **Instructor:** Prof. Rebecca Hwa
 **Email:** [rebecca.hwa@gwu.edu](mailto:rebecca.hwa@gwu.edu)
-**Prerequisites:** [Add Prerequisites here (e.g. CS XXXX)]
+**Prerequisites:** CSCI 3212 (for CSCI 4511); CSCI 6212 (for CSCI 6511)
 
 **Time/Place:**
-  * **Class meets: [Day/Time/Location (e.g., Tuesday, Thursday 11:10am - 12:25pm in SEH 1300)]**
+  * **Class meets: Wednesday 12:45 - 3:15pm in ROME 459**
 
 **Office Hours:**
 Check [Course Homepage](https://rebeccahwa.github.io/cs4511-26F) for updated hours.
 
-**Online Platforms**
-* Blackboard for synchronous lectures and recordings
-* Webpage for lecture slides, tutorials, and other materials
-
 **Course Staff:**
-  - [GTA Name](mailto:gta@gwu.edu) - GTA
-  - [UTA Name](mailto:uta@gwu.edu) - UTA
+  - [Alice Dragnea](mailto:alice.dragnea@gwu.edu) - GTA
 
 ### Course Description and Learning Outcomes  ###
 
-This is the syllabus for CS 4511. [Add course description here]
+This course provides a comprehensive introduction to the fundamental concepts, theories, and algorithms of Artificial Intelligence. We will explore classical problem-solving methods including uninformed and heuristic search, adversarial game playing, and decision-making under uncertainty using Markov Decision Processes (MDPs) and Reinforcement Learning. The course will also cover logical reasoning and inference under uncertainty, equipping students with the theoretical foundations and practical techniques to design intelligent agents.
 
 **By the end of this course, students will be able to:**
-  * [Outcome 1]
-  * [Outcome 2]
-  * [Outcome 3]
+  * Formulate complex problems as state-space search tasks and solve them using uninformed and heuristic search techniques.
+  * Model and solve adversarial game-playing scenarios using minimax, alpha-beta pruning, and expectimax search under utility theory.
+  * Design and implement decision-making frameworks for uncertain environments using Markov Decision Processes (MDPs) and Reinforcement Learning algorithms.
+  * Apply formal logic and probabilistic inference techniques to reason and draw conclusions from uncertain or incomplete knowledge.
 
 **Course Outline**
   * See the course webpage for weekly schedule
 
 ### Textbook and Resources  ###
 
-  * **Primary Text:** [Primary Textbook details]
-  * **Alternate Text:** [Alternate Textbook details]
+  * **Primary Text:** Stuart Russell and Peter Norvig. *Artificial Intelligence: A Modern Approach*. 4th Edition, Pearson.
 
 ### Workload and Grading  ###
 [Add course workload description here]
 
 **Grading:**
-   * **[Weight]%: [Assessment Category 1]** [Description]
-   * **[Weight]%: [Assessment Category 2]** [Description]
-   * **[Weight]%: [Assessment Category 3]** [Description]
+   * **10%**: Class participation (including pop quizzes)
+   * **20%**: Homework assignments
+   * **20%**: One-on-one sessions
+   * **25%**: Midterm exam
+   * **25%**: Final exam
 
 **Final Grading**
   * Curving and scaling rules can be added here.
@@ -63,7 +60,7 @@ This is the syllabus for CS 4511. [Add course description here]
 
  **If you have a disability, or a health or a family emergency, that may effect your participation in this course and wish to discuss academic accommodations, please contact me as soon as possible.**
 
-**Late work policy:** [Add late submission policy here]
+**Late work policy:** There are **no late submissions** allowed in this course. The only exception to this rule is if you have a medical or family emergency, and you should contact the instructor or the TA before the due date.
 
 **Grades will be posted on Blackboard** -- make sure you check and inform the instructors (by email) if you see any disparity between what is posted on blackboard and what you think your grades are. You have one week after the grades are posted to contact the instructor -- after that there will be no regrading.
 

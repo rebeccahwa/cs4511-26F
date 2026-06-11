@@ -7,21 +7,19 @@ layout: home
     <ul class="contact-list">
         <li><b>Prof. Rebecca Hwa</b></li>
         <li><a href="mailto:rebecca.hwa@gwu.edu">rebecca.hwa@gwu.edu</a></li>
-        <li><b> [GTA Name] </b> (GTA) </li>
-        <li><a href="mailto:[GTA Email]">gta@gwu.edu</a></li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
-        <li><b> [UTA Name] </b> (UTA)</li>
-        <li><a href="mailto:[UTA Email]">uta@gwu.edu</a> </li>
+        <li><b>Alice Dragnea</b> (GTA)</li>
+        <li><a href="mailto:alice.dragnea@gwu.edu">alice.dragnea@gwu.edu</a></li>
     </ul>
 </div>
 </div>
 </div>
 
 
-> This is the course website for CS 4511. [Add course description here]
+> This is the course website for CSCI 4511/6511 Artificial Intelligence.
 
 
 
@@ -30,27 +28,33 @@ layout: home
 
 ## Class Resources ##
   - [Blackboard](http://blackboard.gwu.edu)
+  - [Gradescope](https://www.gradescope.com)
 
 ## Tentative Schedule  ##
 
 <div style="font-size:90%">
 
-| Topic  | Materials 
+| Topic  | Materials |
 | :--- |:---  |
-| **Week 1** <br> Introduction | Lecture 1 -- Course Introduction |
-| **Week 2** <br> Topic A | Lecture 2 -- Introduction to Topic A |
-| **Week 3** <br> Topic B | Lecture 3 -- Introduction to Topic B |
+| **Week 1** <br> Overview, Problem solving in AI | |
+| **Week 2** <br> Uninformed search | |
+| **Week 3** <br> Informed (heuristic) search | |
+| **Week 4** <br> Search and adversarial games | |
+| **Week 5** <br> Search and adversarial games (cont.) | |
+| **Week 6** <br> Utility, Expectimax | |
+| **Week 7** <br> Midterm | |
+| **Week 8** <br> Markov Decision Process | |
+| **Week 9** <br> Markov Decision Process (cont.) | |
+| **Week 10** <br> Reinforcement Learning | |
+| **Week 11** <br> Reinforcement Learning (cont.) | |
+| **Week 12** <br> Logic and inference | |
+| **Week 13** <br> Thanksgiving | |
+| **Week 14** <br> Inference under uncertainty | |
 
 </div>
 
-## Office Hours:  ##
+## Office Hours ##
 
-<div style="font-size:90%">
-
-| Monday  | Tuesday | Wednesday | Thursday | Friday |
-| :--- | :--- | :--- | :--- | :--- |
-| |1:00-2:00 -- Prof. Hwa <br> | | | |
-
-</div>
+Please refer to the [Office Hours Schedule (Google Sheet)](https://docs.google.com/spreadsheets/) for details.
 
 All office hours will be held in the common area on the 4th floor of SEH.  

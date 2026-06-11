@@ -1,0 +1,5 @@
+# Ignore local private directory (solutions, grading, draft notes, etc.)
+private/
+
+# Ignore OS system files
+.DS_Store
