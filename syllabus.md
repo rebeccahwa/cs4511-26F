@@ -61,13 +61,13 @@ As a 3-credit course, this class requires a minimum of 2.5 hours of direct class
 
  **If you have a disability, or a health or a family emergency, that may effect your participation in this course and wish to discuss academic accommodations, please contact me as soon as possible.**
 
-**Late work policy:** There are **no late submissions** allowed in this course. The only exception to this rule is if you have a medical or family emergency, and you should contact the instructor or the TA before the due date.
+**Policy on late submissions:** We do not accept late submissions in this course. If you have an unexpected medical or family emergency, you should contact the instruction team as soon as possible and well ahead of the due date to arrange for an agreed upon extension.
 
-**Grades will be posted on Blackboard** -- make sure you check and inform the instructors (by email) if you see any disparity between what is posted on blackboard and what you think your grades are. You have one week after the grades are posted to contact the instructor -- after that there will be no regrading.
+**Grades will be posted on Blackboard:** Make sure you check and inform the instructor by email if you see any disparity between what is posted on Blackboard and what you think your grades are. You have one week after the grades are posted. There will be no re-grading after that.
 
-**Email policy:** You can send email to my GW email address. However, do not expect an instantaneous response. 
+**Email responses:** Please send all questions to the instruction team's GW email addresses. Our responses will not be immediate, but we aim to get back to you within 24 hours. 
 
-**Illness policy:** If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance if possible. I cannot extend deadlines unless you contact me. You are still responsible for all material you missed, which generally will be available on the course website or on blackboard.
+**Illness policy:** Please alert the instructional team If you will be missing a class, an assignment, or an appointment. You should arrange for an extension (see late work policy above). You are still responsible for all material you missed, which generally will be available on the course website.
 
 **Academic Integrity policy:** 
 
