@@ -37,7 +37,7 @@ This course provides a comprehensive introduction to the fundamental concepts, t
   * **Primary Text:** Stuart Russell and Peter Norvig. *Artificial Intelligence: A Modern Approach*. 4th Edition, Pearson.
 
 ### Workload and Grading  ###
-[Add course workload description here]
+As a 3-credit course, this class requires a minimum of 2.5 hours of direct classroom instruction per week, along with a minimum of 5 hours of out-of-class independent learning (including reading textbook chapters, completing assignments, preparing for one-on-one sessions, and studying for exams) per week. Over the course of a 15-week semester, you should expect to spend a total of approximately 112.5 hours engaging with the course materials, assignments, and lectures.
 
 **Grading:**
    * **10%**: Class participation (including pop quizzes)
