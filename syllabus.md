@@ -71,7 +71,7 @@ As a 3-credit course, this class requires a minimum of 2.5 hours of direct class
 
 **Academic Integrity policy:** 
 
-[Add specific academic integrity policies here]
+All work submitted in this course must be your own. While high-level conceptual discussions with peers are encouraged, you must never copy, view, or share code or solutions with other students. Quizzes and exams must be completed entirely independently. The use of generative AI tools is permitted, but must strictly adhere to the specific instructions and authorized usage levels provided for each individual assignment.
 
 The [Academic Integrity Code](https://github.com/GWU-CSCI3411-Fall16/hw-0-gparmer/blob/master/cs_integrity.md) will apply to this course. Please read through the code carefully. *Penalties for violating the code or the policies described here include failing this course*, and are elaborated in the [GW Academic Integrity Code](https://studentconduct.gwu.edu/code-academic-integrity). Note that the _minimum_ punishment is failure of the assignment.
 
