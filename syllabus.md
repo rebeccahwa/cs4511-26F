@@ -17,6 +17,7 @@ Check [Course Homepage](https://rebeccahwa.github.io/cs4511-26F) for updated hou
 
 **Course Staff:**
   - [Alice Dragnea](mailto:alice.dragnea@gwu.edu) - GTA
+  - [Max Eichholz](mailto:m.eichholz@gwu.edu) - UTA
 
 ### Course Description and Learning Outcomes  ###
 

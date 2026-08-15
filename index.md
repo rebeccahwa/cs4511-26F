@@ -13,6 +13,8 @@ layout: home
     <ul class="contact-list">
         <li><b>Alice Dragnea</b> (GTA)</li>
         <li><a href="mailto:alice.dragnea@gwu.edu">alice.dragnea@gwu.edu</a></li>
+        <li><b>Max Eichholz</b> (UTA)</li>
+        <li><a href="mailto:m.eichholz@gwu.edu">m.eichholz@gwu.edu</a></li>
     </ul>
 </div>
 </div>
