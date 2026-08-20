@@ -13,7 +13,7 @@ permalink: /syllabus/
   * **Class meets: Wednesday 12:45 - 3:15pm in ROME 459**
 
 **Office Hours:**
-Check [Course Homepage](https://rebeccahwa.github.io/cs4511-26F) for updated hours.
+See the [Office Hours Schedule (Google Sheet)](https://docs.google.com/spreadsheets/d/1NPlEGqx9SvQx1POnZZDoMNuqy7IUhLvw2LAP8n8Kvio/edit?usp=share_link) for updated hours.
 
 **Course Staff:**
   - [Alice Dragnea](mailto:alice.dragnea@gwu.edu) - GTA
@@ -63,7 +63,7 @@ As a 3-credit course, this class requires a minimum of 2.5 hours of direct class
 
 **Policy on late submissions:** We do not accept late submissions in this course. If you have an unexpected medical or family emergency, you should contact the instruction team as soon as possible and well ahead of the due date to arrange for an agreed upon extension.
 
-**Grades will be posted on Blackboard:** Make sure you check and inform the instructor by email if you see any disparity between what is posted on Blackboard and what you think your grades are. You have one week after the grades are posted. There will be no re-grading after that.
+**Grades will be communicated via Gradescope or posted on Blackboard:** Make sure you check and inform the instructor by email if you see any disparity between what is posted and what you think your grades are. You have one week after the grades are posted. There will be no re-grading after that.
 
 **Email responses:** Please send all questions to the instruction team's GW email addresses. Our responses will not be immediate, but we aim to get back to you within 24 hours. 
 
@@ -71,12 +71,18 @@ As a 3-credit course, this class requires a minimum of 2.5 hours of direct class
 
 **Academic Integrity policy:** 
 
-All work submitted in this course must be your own. While high-level conceptual discussions with peers are encouraged, you must never copy, view, or share code or solutions with other students. Quizzes and exams must be completed entirely independently. You may only use generative AI tools as explicitly authorized and directed in the instructions for each individual assignment.
+All work submitted in this course must be your own. While high-level conceptual discussions with peers are encouraged, you must never copy, view, or share code or solutions with other students. Quizzes and exams must be completed entirely independently.
 
 The [Academic Integrity Code](https://github.com/GWU-CSCI3411-Fall16/hw-0-gparmer/blob/master/cs_integrity.md) will apply to this course. Please read through the code carefully. *Penalties for violating the code or the policies described here include failing this course*, and are elaborated in the [GW Academic Integrity Code](https://studentconduct.gwu.edu/code-academic-integrity). Note that the _minimum_ punishment is failure of the assignment.
 
-**Support for students outside the classroom.**
+**AI Usage policy:** You may only use generative AI tools as explicitly authorized and directed in the instructions for each individual assignment.
+
+* **Verification of AI use:** I do not rely on AI-detection tools, as they are often unreliable. This course emphasizes the reasoning behind your solutions rather than whether they succeed — a creative, well-justified approach earns credit even if it fails spectacularly, while a generic, AI-typical answer will not be sufficient regardless of how well it performs. If needed, I may follow up with you directly about your reasoning and approach. Deliberately submitting AI-generated work as your own in violation of an assignment's stated policy constitutes a violation of the GW Code of Academic Integrity.
+* **Disclosure:** Whenever an assignment permits AI use beyond basic spell-check/grammar-check, you must include a brief note at the end of your submission stating which tool you used, for what, and how you verified the output (e.g., "I used ChatGPT to debug a syntax error in my search function; I verified the fix by re-running the test cases.").
+
+**Support for students outside the classroom:**
 
 * Academic Commons. Academic Commons provides tutoring and other academic support resources to students in many courses. Students can schedule virtual one-on-one appointments or attend virtual drop-in sessions. Students may schedule an appointment, review the tutoring schedule, access other academic support resources, or obtain assistance at academiccommons.gwu.edu.
 * Disability Support Services (DSS) 202 994 8250. Any student who may need an accommodation based on the potential impact of a disability should contact Disability Support Services to establish eligibility and to coordinate reasonable accommodations. disabilitysupport.gwu.edu
 * Counseling and Psychological Services. 202 994 5300. GW’s Colonial Health Center offers counseling and psychological services, supporting mental health and personal development by collaborating directly with students to overcome challenges and difficulties that may interfere with academic, emotional, and personal success. See [Health Center](https://healthcenter.gwu.edu/counseling-and-psychological-services).
+* The Office of Advocacy and Support (OAS) is the university's only dedicated confidential support resource for student survivors of sexual assault, domestic violence, and stalking. OAS provides trauma-informed and healing-centered emotional support, safety planning, academic and logistical support, and assistance with on and off-campus resource navigation and referrals. Connecting with OAS does not result in reporting to the institution. OAS can be reached at oas@gwu.edu or (202) 994-0443.

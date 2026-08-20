@@ -3,3 +3,6 @@ private/
 
 # Ignore OS system files
 .DS_Store
+
+# Ignore local Claude Code settings
+.claude/

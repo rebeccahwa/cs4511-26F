@@ -30,7 +30,7 @@ layout: home
 
 ## Class Resources ##
   - [Blackboard](http://blackboard.gwu.edu)
-  - [Gradescope](https://www.gradescope.com)
+  - [Gradescope](https://www.gradescope.com/courses/1360657) (entry code: D6W7YK)
 
 ## Tentative Schedule  ##
 
@@ -38,25 +38,26 @@ layout: home
 
 | Topic  | Materials |
 | :--- |:---  |
-| **Week 1** <br> Overview, Problem solving in AI | |
-| **Week 2** <br> Uninformed search | |
-| **Week 3** <br> Informed (heuristic) search | |
-| **Week 4** <br> Search and adversarial games | |
-| **Week 5** <br> Search and adversarial games (cont.) | |
-| **Week 6** <br> Utility, Expectimax | |
-| **Week 7** <br> Midterm | |
-| **Week 8** <br> Markov Decision Process | |
-| **Week 9** <br> Markov Decision Process (cont.) | |
-| **Week 10** <br> Reinforcement Learning | |
-| **Week 11** <br> Reinforcement Learning (cont.) | |
-| **Week 12** <br> Logic and inference | |
-| **Week 13** <br> Thanksgiving | |
-| **Week 14** <br> Inference under uncertainty | |
+| **Week 1** <br> Aug 26 <br> Overview, Problem solving in AI | |
+| **Week 2** <br> Sep 2 <br> Uninformed search | |
+| **Week 3** <br> Sep 9 <br> Informed (heuristic) search | |
+| **Week 4** <br> Sep 16 <br> Adversarial games: Minimax, Alpha-Beta pruning | |
+| **Week 5** <br> Sep 23 <br> Probability review; Utility, Expectimax | |
+| **Week 6** <br> Sep 30 <br> Utility, Expectimax (cont.) | |
+| **Week 7** <br> Oct 7 <br> Midterm | |
+| **Week 8** <br> Oct 14 <br> Markov Decision Process | |
+| **Week 9** <br> Oct 21 <br> Markov Decision Process (cont.) | |
+| **Week 10** <br> Oct 28 <br> Reinforcement Learning | |
+| **Week 11** <br> Nov 4 <br> Reinforcement Learning (cont.) | |
+| **Week 12** <br> Nov 11 <br> Bayesian networks | |
+| **Week 13** <br> Nov 18 <br> Inference under uncertainty | |
+| Nov 25 <br> *Thanksgiving (no class)* | |
+| **Week 14** <br> Dec 2 <br> AI and society | |
 
 </div>
 
 ## Office Hours ##
 
-Please refer to the [Office Hours Schedule (Google Sheet)](https://docs.google.com/spreadsheets/) for details.
+Please refer to the [Office Hours Schedule (Google Sheet)](https://docs.google.com/spreadsheets/d/1NPlEGqx9SvQx1POnZZDoMNuqy7IUhLvw2LAP8n8Kvio/edit?usp=share_link) for details.
 
 All office hours will be held in the common area on the 4th floor of SEH.  
