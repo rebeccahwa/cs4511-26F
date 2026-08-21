@@ -40,11 +40,14 @@ This course provides a comprehensive introduction to the fundamental concepts, t
 As a 3-credit course, this class requires a minimum of 2.5 hours of direct classroom instruction per week, along with a minimum of 5 hours of out-of-class independent learning (including reading textbook chapters, completing assignments, preparing for one-on-one sessions, and studying for exams) per week. Over the course of a 14-week semester, you should expect to spend a total of approximately 105 hours engaging with the course materials, assignments, and lectures.
 
 **Grading:**
-   * **10%**: Class participation (including pop quizzes)
-   * **20%**: Homework assignments
-   * **20%**: One-on-one sessions
-   * **25%**: Midterm exam
-   * **25%**: Final exam
+   * **10%: Class participation** The class participation grade will consist of the following:
+     * Discussion participation:  Students are expected to actively participate in lectures by asking questions and engaging in discussions.
+     * In-class reflections: In addition to group discussions, students are also expected to take time for individual reflections.
+     * In-class quizzes: Quizzes may occur from time to time during the lecture session. Late arrival means you may miss the quiz - no extra time will be provided for those who arrive late. 
+   * **20%: Homework assignments** There will be four or so project-oriented homework assignments. They will have multiple steps. Do not wait until the last day to start.
+   * **20%: One-on-one sessions** The instructional team will be holding 15-minute long one-on-one meeting sessions throughout the semester. At these meetings, you will be required to hold a conversation about certain concepts (typically one of the classroom exercises or potential exam questions) to a member of the instruction team. We expect to hold a different topic every two weeks. Note: you will be graded on engagement, not regurgitation. You do not need to memorize anything. Just show up and interact naturally with one of the instructional team member; demonstrate your reasoning process, and you will get full credit. Each session contributes to your participation grade, but you may drop one. 
+   * **25% Midterm exam**: This is tentatively scheduled for Week 7. If you have legitimate reasons to be absent, you need to contact the instructor immediately.
+   * **25% Final exam**: The exam will be held during the scheduled time. 
 
 **Final Grading**
 The course grades will be curved. Grades will be based on the ‘weighted total’ after curving and scaling, where the weights for each category are shown above - normalization places your total as a percentage of the highest total in the class, and curving identifies clusters. Grades are skewed toward the higher end if course average (or median) is high and skewed towards lower if they are low. Grades are then approximately (since they will depend on the final distribution, including median score) assigned in the following ranges when the assumption is that the normalized average or median is around 78-80. Grades are skewed toward the higher end if average is higher and skewed towards lower if average is lower.
@@ -75,7 +78,7 @@ All work submitted in this course must be your own. While high-level conceptual 
 
 The [Academic Integrity Code](https://github.com/GWU-CSCI3411-Fall16/hw-0-gparmer/blob/master/cs_integrity.md) will apply to this course. Please read through the code carefully. *Penalties for violating the code or the policies described here include failing this course*, and are elaborated in the [GW Academic Integrity Code](https://studentconduct.gwu.edu/code-academic-integrity). Note that the _minimum_ punishment is failure of the assignment.
 
-**AI Usage policy:** You may only use generative AI tools as explicitly authorized and directed in the instructions for each individual assignment.
+**AI Usage policy:** You may **only** use generative AI tools as explicitly authorized and directed in the instructions for each individual assignment. No usage is allowed during quizzes and exams.
 
 * **Verification of AI use:** I do not rely on AI-detection tools, as they are often unreliable. This course emphasizes the reasoning behind your solutions rather than whether they succeed — a creative, well-justified approach earns credit even if it fails spectacularly, while a generic, AI-typical answer will not be sufficient regardless of how well it performs. If needed, I may follow up with you directly about your reasoning and approach. Deliberately submitting AI-generated work as your own in violation of an assignment's stated policy constitutes a violation of the GW Code of Academic Integrity.
 * **Disclosure:** Whenever an assignment permits AI use beyond basic spell-check/grammar-check, you must include a brief note at the end of your submission stating which tool you used, for what, and how you verified the output (e.g., "I used ChatGPT to debug a syntax error in my search function; I verified the fix by re-running the test cases.").
