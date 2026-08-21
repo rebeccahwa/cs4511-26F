@@ -50,7 +50,7 @@ As a 3-credit course, this class requires a minimum of 2.5 hours of direct class
    * **25% Final exam**: The exam will be held during the scheduled time. 
 
 **Final Grading**
-The course grades will be curved. Grades will be based on the ‘weighted total’ after curving and scaling, where the weights for each category are shown above - normalization places your total as a percentage of the highest total in the class, and curving identifies clusters. Grades are skewed toward the higher end if course average (or median) is high and skewed towards lower if they are low. Grades are then approximately (since they will depend on the final distribution, including median score) assigned in the following ranges when the assumption is that the normalized average or median is around 78-80. Grades are skewed toward the higher end if average is higher and skewed towards lower if average is lower.
+The course grades will be curved. Each component grade (participation, homework, etc.) is normalized as a percentage of the highest score in the class, then curved based on that component's own average or median — skewed toward the higher end if the component's average is high, toward the lower end if it is low. Your weighted total is then computed from these curved component grades using the weights shown above. Final letter grades are assigned approximately according to the ranges below, assuming a normalized average or median around 78-80.
 
   | Percentage  | Letter grade
   | :--- |:---  |
