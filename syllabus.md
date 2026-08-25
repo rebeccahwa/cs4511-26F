@@ -16,8 +16,8 @@ permalink: /syllabus/
 See the [Office Hours Schedule (Google Sheet)](https://docs.google.com/spreadsheets/d/1NPlEGqx9SvQx1POnZZDoMNuqy7IUhLvw2LAP8n8Kvio/edit?usp=share_link) for updated hours.
 
 **Course Staff:**
-  - [Alice Dragnea](mailto:alice.dragnea@gwu.edu) - GTA
-  - [Max Eichholz](mailto:m.eichholz@gwu.edu) - UTA
+  - Alice Dragnea [alice.dragnea@gwu.edu](mailto:alice.dragnea@gwu.edu) - GTA
+  - Max Eichholz [m.eichholz@gwu.edu](mailto:m.eichholz@gwu.edu) - UTA
 
 ### Course Description and Learning Outcomes  ###
 
@@ -43,7 +43,8 @@ As a 3-credit course, this class requires a minimum of 2.5 hours of direct class
    * **10%: Class participation** The class participation grade will consist of the following:
      * Discussion participation:  Students are expected to actively participate in lectures by asking questions and engaging in discussions.
      * In-class reflections: In addition to group discussions, students are also expected to take time for individual reflections.
-     * In-class quizzes: Quizzes may occur from time to time during the lecture session. Late arrival means you may miss the quiz - no extra time will be provided for those who arrive late. 
+     * In-class quizzes: Quizzes may occur from time to time during the lecture session. Late arrival means you may miss the quiz - no extra time will be provided for those who arrive late.
+     * **Note**: We will do regular work on paper in class. You should bring a pen or pencil/eraser and a notebook to class each session. 
    * **20%: Homework assignments** There will be four or so project-oriented homework assignments. They will have multiple steps. Do not wait until the last day to start.
    * **20%: One-on-one sessions** The instructional team will be holding 15-minute long one-on-one meeting sessions throughout the semester. At these meetings, you will be required to hold a conversation about certain concepts (typically one of the classroom exercises or potential exam questions) to a member of the instruction team. We expect to hold a different topic every two weeks. Note: you will be graded on engagement, not regurgitation. You do not need to memorize anything. Just show up and interact naturally with one of the instructional team member; demonstrate your reasoning process, and you will get full credit. Each session contributes to your participation grade, but you may drop one. 
    * **25% Midterm exam**: This is tentatively scheduled for Week 7. If you have legitimate reasons to be absent, you need to contact the instructor immediately.
@@ -54,10 +55,10 @@ The course grades will be curved. Each component grade (participation, homework,
 
   | Percentage  | Letter grade
   | :--- |:---  |
-  | 90-100 | A range (A- to A)|
-  | 80-89 | B range (B- to B+)|
-  | 70-79 | C range (C- to C+)|
-  | 60-69 | D range (D- to D+)|
+  | 90-100 | A range (90-93 for an A-; >93 for an A)|
+  | 80-89 | B range (80-83 for a B-; >87 for a B+)|
+  | 70-79 | C range (70-73 for a C-; >77 for a C+)|
+  | 60-69 | D range |
   | below 60| F|
 
 ### Course Policies  ###
