@@ -38,7 +38,7 @@ layout: home
 
 | Topic  | Materials |
 | :--- |:---  |
-| **Week 1** <br> Aug 26 <br> Overview, Problem solving in AI | |
+| **Week 1** <br> Aug 26 <br> Overview, Problem solving in AI | [initial survey](https://docs.google.com/document/d/14kV_PCceGhzG4onfxKTQfv2cTZwxuhIAXjpc9a1Y_sU/edit?tab=t.0#heading=h.sgoe6ufqhwcm) <br> [slide template](https://docs.google.com/presentation/d/1PmbWzwmAnLhRfusbsWNVwrnb2mnLb10VUx28fCexZv0/edit?slide=id.p1#slide=id.p1) <br> [example notes](https://docs.google.com/document/d/1aJ3sZfs-K4tlFka-2H9WCkJtnQrcuVTKwPKXMHA82MY/edit?usp=sharing) |
 | **Week 2** <br> Sep 2 <br> Uninformed search | |
 | **Week 3** <br> Sep 9 <br> Informed (heuristic) search | |
 | **Week 4** <br> Sep 16 <br> Adversarial games: Minimax, Alpha-Beta pruning | |
