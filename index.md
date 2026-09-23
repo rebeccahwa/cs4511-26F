@@ -42,7 +42,7 @@ layout: home
 | **Week 2** <br> Sep 2 <br> Uninformed search | [slide template](https://docs.google.com/presentation/d/1bjWQlFOrJoo5UurBSr7T-EP-1QjVF5p1GCwvSQvTpHw/edit?usp=sharing) |
 | **Week 3** <br> Sep 9 <br> Informed (heuristic) search | [slide template](https://docs.google.com/presentation/d/15EA3dllx4ri0YiHzohSOV8zjA3oo2kawGyHKr1pLnsc/edit?usp=sharing) |
 | **Week 4** <br> Sep 16 <br> Informed (heuristic) search part 2 | [slide template](https://docs.google.com/presentation/d/1rw5zhDlYN_QuNu86xHCzGNNhALwgkKdymcQQ8P4YXC4/edit?usp=sharing)|
-| **Week 5** <br> Sep 23 <br> Adversarial games: Minimax, Alpha-Beta pruning | |
+| **Week 5** <br> Sep 23 <br> Adversarial games: Minimax, Alpha-Beta pruning |  [slide template](https://docs.google.com/presentation/d/1x3tinHAhJFeNTKEI2rBYQYeHGwbMHTGOn12mcGpOd64/edit?usp=sharing)|
 | **Week 6** <br> Sep 30 <br> Probability review; Utility, Expectimax (cont.) | |
 | **Week 7** <br> Oct 7 <br> Midterm | |
 | **Week 8** <br> Oct 14 <br> Markov Decision Process | |
