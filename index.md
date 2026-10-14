@@ -45,7 +45,7 @@ layout: home
 | **Week 5** <br> Sep 23 <br> Adversarial games: Minimax, Alpha-Beta pruning |  [slide template](https://docs.google.com/presentation/d/1x3tinHAhJFeNTKEI2rBYQYeHGwbMHTGOn12mcGpOd64/edit?usp=sharing)|
 | **Week 6** <br> Sep 30 <br> Probability review| [slide template](https://docs.google.com/presentation/d/16sGrGmVQtGx4DWwrxgfEqxvy4IO6mghZvwhxw8JRrZA/edit?usp=sharing) |
 | **Week 7** <br> Oct 7 <br> Midterm | |
-| **Week 8** <br> Oct 14 <br> Markov Decision Process | |
+| **Week 8** <br> Oct 14 <br> Markov Decision Process | [slide template](https://docs.google.com/presentation/d/1O1vI4xnPy4oaMYxWuE6yBWlNs0hpRQy4VXQUtd0u0cA/edit?usp=sharing) |
 | **Week 9** <br> Oct 21 <br> Markov Decision Process (cont.) | |
 | **Week 10** <br> Oct 28 <br> Reinforcement Learning | |
 | **Week 11** <br> Nov 4 <br> Reinforcement Learning (cont.) | |
