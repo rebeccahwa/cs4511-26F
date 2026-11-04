@@ -48,7 +48,7 @@ layout: home
 | **Week 8** <br> Oct 14 <br> Markov Decision Process | [slide template](https://docs.google.com/presentation/d/1O1vI4xnPy4oaMYxWuE6yBWlNs0hpRQy4VXQUtd0u0cA/edit?usp=sharing) |
 | **Week 9** <br> Oct 21 <br> Markov Decision Process (cont.) | [slide template](https://docs.google.com/presentation/d/1WcqFY020txYxrxp5pMZ_Uh3seTxgOSTSG2Q86_w_XgU/edit?usp=sharing)|
 | **Week 10** <br> Oct 28 <br> Reinforcement Learning | [slide template](https://docs.google.com/presentation/d/1-7czPz6DRGN16gieaWo1h-o_6mnTRm3uW7e5aDhYWeM/edit?usp=sharing)|
-| **Week 11** <br> Nov 4 <br> Reinforcement Learning (cont.) | |
+| **Week 11** <br> Nov 4 <br> Reinforcement Learning (cont.) | [slide template](https://docs.google.com/presentation/d/15PjV5g5arkBO7oHLy8vcJOjAz0bZQP80n1bfdk2RUwE/edit?usp=sharing)|
 | **Week 12** <br> Nov 11 <br> Bayesian networks | |
 | **Week 13** <br> Nov 18 <br> Inference under uncertainty | |
 | Nov 25 <br> *Thanksgiving (no class)* | |
