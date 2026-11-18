@@ -50,7 +50,7 @@ layout: home
 | **Week 10** <br> Oct 28 <br> Reinforcement Learning | [slide template](https://docs.google.com/presentation/d/1-7czPz6DRGN16gieaWo1h-o_6mnTRm3uW7e5aDhYWeM/edit?usp=sharing)|
 | **Week 11** <br> Nov 4 <br> Reinforcement Learning (cont.) | [slide template](https://docs.google.com/presentation/d/15PjV5g5arkBO7oHLy8vcJOjAz0bZQP80n1bfdk2RUwE/edit?usp=sharing)|
 | **Week 12** <br> Nov 11 <br> Introduction to Bayesian networks | [slide template](https://docs.google.com/presentation/d/1LbmDpSDdA5Cjs2D1DVqBxpJnDyUFdxLrLRErLJ3x9_I/edit?usp=sharing) |
-| **Week 13** <br> Nov 18 <br> Inference under uncertainty | |
+| **Week 13** <br> Nov 18 <br> Inference under uncertainty | [slide template](https://docs.google.com/presentation/d/1YsSPvvHcLicTXdq8IALxlNKJRopBjSSyWfuf2eIizOI/edit?usp=sharing)|
 | Nov 25 <br> *Thanksgiving (no class)* | |
 | **Week 14** <br> Dec 2 <br> AI and society | |
 
